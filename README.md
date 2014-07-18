@@ -1,8 +1,9 @@
 Prezto Configs for ZSH
 =======================
 
+![Example](https://raw.githubusercontent.com/grubernaut/prompt_config/master/light_solarized_2.png)
+
 **NOTE**: The original author and inspiration for the powerline theme came from @davidjrice and his repository [here](https://github.com/davidjrice/prezto_powerline)
----
 
 Included are my Prezto Configurations for my ZSH Shell. 
 
@@ -29,6 +30,13 @@ zstyle ':prezto:module:prompt' theme 'powerline'
 ```
 
 Open a new shell, and voila! You are now running Prezto, and have a very kickass theme at that. 
+
 ========================
 
 I use this theme with iTerm2 and the solarized light theme from [here](https://github.com/altercation/solarized/tree/master/iterm2-colors-solarized)
+
+### Screenshots
+
+![Example2](https://raw.githubusercontent.com/grubernaut/prompt_config/master/light_solarized.png)
+![Example3](https://raw.githubusercontent.com/grubernaut/prompt_config/master/dark_solarized.png)
+![Example4](https://raw.githubusercontent.com/grubernaut/prompt_config/master/dark_solarized_2.png)
